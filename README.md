@@ -36,7 +36,7 @@ This chat agent is a tool that is able to transcribe audio input, and answer use
 
 # ⚖️ License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Logisx/audio-conversational-agent/blob/main/LICENSE)
 
 
 # 🔗 Links
