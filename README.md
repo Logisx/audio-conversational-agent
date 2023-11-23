@@ -2,6 +2,7 @@
 
 ## :rocket: Overview
 This chat agent is a tool that is able to transcribe audio input, and answer user's questions based on the information in the audio. It is made for efficient summarization, information retrieval, and organization of data after attending events like meetups, lectures, or webinars.\
+\
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) \
 ![OpenAI](https://img.shields.io/badge/OpenAI-gpt3.5_turbo-F96854)
@@ -10,6 +11,9 @@ This chat agent is a tool that is able to transcribe audio input, and answer use
 ![AssemblyAI](https://img.shields.io/badge/AssemblyAI-0.19.0-58A6FF)
 ![Gradio](https://img.shields.io/badge/Gradio-4.5.0-FF6F61)
 ![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-IDE-F37626)
+
+## :star: Example
+![Demo](https://github.com/Logisx/audio-conversational-agent/blob/main/assets/chat_showcase_cropped.gif?raw=true)
 
 ## :toolbox: Technologies used
 - OpenAI :robot:
@@ -29,9 +33,6 @@ This chat agent is a tool that is able to transcribe audio input, and answer use
 2. Install dependencies
 3. Insert the links to your audio
 4. Run the cells and start your chat!
-
-## :star: Example
-![Demo](https://github.com/Logisx/audio-conversational-agent/blob/main/assets/chat_showcase_cropped.gif?raw=true)
 
 # ⚖️ License
 
