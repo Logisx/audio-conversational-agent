@@ -1,0 +1,5 @@
+.venv
+.env
+docs
+.ipynb_checkpoints
+assets/chat_showcase.mp4
