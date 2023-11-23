@@ -31,7 +31,7 @@ This chat agent is a tool that is able to transcribe audio input, and answer use
 4. Run the cells and start your chat!
 
 ## :star: Example
-![Demo](https://github.com/Logisx/audio-conversational-agent/blob/main/assets/chat_showcase.gif?raw=true)
+![Demo](https://github.com/Logisx/audio-conversational-agent/blob/main/assets/chat_showcase_cropped.gif?raw=true)
 
 # ⚖️ License
 
