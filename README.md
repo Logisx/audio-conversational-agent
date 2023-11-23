@@ -25,13 +25,13 @@ This chat agent is a tool that is able to transcribe audio input, and answer use
 4. **Conversation History**: Chat is keeping the history of preivous messages and is able to provide more accurate answers based on that.
 
 ## :world_map: How to Get Started
-1. Open the [notebook](https://github.com/Logisx/audio-conversational-agent/audio_conversational_agent.ipynb) file
+1. Open the [notebook](https://github.com/Logisx/audio-conversational-agent/blob/main/audio_conversational_agent.ipynb) file
 2. Install dependencies
 3. Insert the links to your audio
 4. Run the cells and start your chat!
 
 ## :star: Example
-![Demo](https://github.com/Logisx/audio-conversational-agent/assets/chat_showcase.gif?raw=true)
+![Demo](https://github.com/Logisx/audio-conversational-agent/blob/main/assets/chat_showcase.gif?raw=true)
 
 # ⚖️ License
 
